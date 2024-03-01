@@ -24,10 +24,10 @@ npm run build
 Deploy to GitHub Pages:
 npm run deploy
 
-Technologies Used
-React
-Axios
-CSS (Flexbox/Grid)
+Technologies Used:
+React,
+Axios,
+CSS (Flexbox/Grid),
 SWAPI (Star Wars API)
 
 Credits
